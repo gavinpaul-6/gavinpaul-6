@@ -17,7 +17,7 @@
 [<img align="left" alt="gavinpaul-6 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/gavinpaul_6
-[youtube]: https://www.youtube.com/c/youtube.com/@gavinpaul_YT
+[youtube]: https://www.youtube.com/@gavinpaul_YT
 [instagram]: https://www.instagram.com/gavinpaul_6/
 [linkedin]: https://inkedin.com/in/gavin-faber
 <!--
