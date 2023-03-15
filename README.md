@@ -3,7 +3,7 @@
 <h2>👨‍💻 Python Projects 🐍:</h2>
 
 - <b>Maling Client</b>
-  - []
+  - [Mailing Client](https://github.com/gavinpaul-6/gavin-python-projects)
 
 <h2>📺 Popular YouTube Videos</h2>
 
