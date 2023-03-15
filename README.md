@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gavin! <br/><a href="https://github.com/gavinpaul-6">Python & Bash Enthuiast</a>, <a href="https://www.linkedin.com/in/gavin-faber/">Network Professional</a>, <a href="https://www.youtube.com/c/gavinpaul_YT">YouTuber</a></h1>
+<h1>Hi, I'm Gavin! <br/><a href="https://github.com/gavinpaul-6">Python & Bash Enthusiast</a>, <a href="https://www.linkedin.com/in/gavin-faber/">Network Professional</a>, <a href="https://www.youtube.com/c/gavinpaul_YT">YouTuber</a></h1>
 
 <h2>👨‍💻 Python Projects 🐍:</h2>
 
