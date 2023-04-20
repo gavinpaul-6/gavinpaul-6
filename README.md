@@ -1,10 +1,5 @@
 <h1>Hi, I'm Gavin! <br/><a href="https://github.com/gavinpaul-6">IT Professional</a>, <a href="https://www.linkedin.com/in/gavin-faber/"></a><a href="https://www.youtube.com/c/gavinpaul_YT">YouTuber (Coming Soon)</a></h1>
 
-<h2>👨‍💻 Python Projects 🐍:</h2>
-
-- <b>Mailing Client</b>
-  - [Mailing Client](https://github.com/gavinpaul-6/gavin-python-projects)
-
 <h2>📺 Popular YouTube Videos</h2>
 
 - [TBD] (Coming Soon!)
