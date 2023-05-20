@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gavin Faber</h1>
 <h3 align="center">Network Operations Center Analyst 💻</h3>
 
-IT professional with a strong interest in Security Operations domain in Cybersecurity. Currently building my security analyst skills utilizing training platforms, labs, certifications and creating projects.
+IT professional with a strong interest in Security Operations. Currently building my security analyst skills utilizing training platforms, labs, certifications and creating projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinpaul-6&label=Profile%20views&color=0e75b6&style=flat" alt="gavinpaul-6" /> </p>
 
