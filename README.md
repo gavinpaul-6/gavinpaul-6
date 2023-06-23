@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/gavinpaul_6" target="blank"><img src="https://img.shields.io/twitter/follow/gavinpaul_6?logo=twitter&style=for-the-badge" alt="gavinpaul_6" /></a> </p>
 
 
-<h3> align="left">My Cybersecurity Development Projects</h3>
+<h3 align="left">My Cybersecurity Development Projects</h3>
 - Microsoft Azure Threat Detection Lab 
 - Active Directory Lab with Microsoft Azure
 
