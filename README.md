@@ -7,16 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/gavinpaul_6" target="blank"><img src="https://img.shields.io/twitter/follow/gavinpaul_6?logo=twitter&style=for-the-badge" alt="gavinpaul_6" /></a> </p>
 
-
-<h3 align="left">My Cybersecurity Development Projects</h3>
-- Microsoft Azure Threat Detection Lab 
-- Active Directory Lab with Microsoft Azure
-
 - 🌍 I am based in Rochester, NY.
 - 🧠 I’m learning **Cloud Infrastructure, Digital Forensics, Malware Analysis and Incident Response.**
 - 📝 Know about my experiences [https://www.gavinpaul.tech](https://www.gavinpaul.tech)
 - 👾 Checkout my Azure hosted resume [https://www.gavinpaul.io](https://www.gavinpaul.io)
 - ✉️ How to reach me **gfaberjr@gmail.com**
+
+<h3 align="left">My Cybersecurity Development Projects</h3>
+
+- Microsoft Azure Threat Detection Lab 
+- Active Directory Lab with Microsoft Azure
 
 <h3 align="left">Socials</h3>
 <p align="left">
