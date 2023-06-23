@@ -15,8 +15,8 @@
 
 <h3 align="left">My Cybersecurity Development Projects</h3>
 
-- Microsoft Azure Threat Detection Lab 
-- Active Directory Lab with Microsoft Azure
+- Microsoft Azure Threat Detection Lab (Coming Soon)
+- Active Directory Lab with Microsoft Azure (Coming Soon)
 
 <h3 align="left">Socials</h3>
 <p align="left">
