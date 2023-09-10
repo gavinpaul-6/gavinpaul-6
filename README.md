@@ -22,7 +22,7 @@
 
 <h2>👨‍💻 My Splunk Projects:</h2>
 
-- <b>Cloud Labs</b>
+- <b>Splunk Labs</b>
   - [Deploying a Distributed Splunk Environment in AWS](https://github.com/gavinpaul-6/aws-splunk-deployment)
  
 <h2> 🤳 Connect with me:</h2>
