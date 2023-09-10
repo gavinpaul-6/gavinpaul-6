@@ -20,7 +20,7 @@
   - [Active Directory Implementation](https://github.com/gavinpaul-6/Active-Directory-Lab)
   - [Cybersecurity Detection and Monitoring Homelab](https://github.com/gavinpaul-6/SOC-Lab)
 
-<h2>👨‍💻 My Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Splunk Projects:</h2>
 
 - <b>Cloud Labs</b>
   - [Deploying a Distributed Splunk Environment in AWS](https://github.com/gavinpaul-6/aws-splunk-deployment)
