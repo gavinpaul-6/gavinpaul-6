@@ -23,6 +23,7 @@
 <h2>👨‍💻 My Splunk Projects:</h2>
 
 - <b>Splunk Labs</b>
+  - [Apple Health Dashboard with Splunk Enterprise](https://github.com/gavinpaul_6/apple-health-dashboard)
   - [Deploying a Distributed Splunk Environment in AWS](https://github.com/gavinpaul-6/aws-splunk-deployment)
  
 <h2> 🤳 Connect with me:</h2>
