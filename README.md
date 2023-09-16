@@ -19,9 +19,7 @@
   - [Vulnerability Management with Nessus](https://github.com/gavinpaul-6/Vulnerability-Management-using-Nessus)
 
 - <b>On Prem 🏢</b>
-  - [Active Directory Implementation](https://github.com/gavinpaul-6/Active-Directory-Lab)
   - [Cybersecurity Detection and Monitoring Homelab](https://github.com/gavinpaul-6/SOC-Lab)
-
   - [Apple Health Dashboard with Splunk Enterprise (In Progress)](https://github.com/gavinpaul-6/gavinpaul-6/apple-health-dashboard) 
 
 
