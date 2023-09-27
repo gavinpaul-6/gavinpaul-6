@@ -15,10 +15,13 @@
 - <b>Cyber 👨🏽‍💻🔎</b>
   - [Cybersecurity Detection and Monitoring Homelab](https://github.com/gavinpaul-6/SOC-Lab)
   - [Vulnerability Management with Nessus](https://github.com/gavinpaul-6/Vulnerability-Management-using-Nessus)
+<<<<<<< HEAD
  
 - <b>Cloud ☁️</b>
   - [Azure Resume Challenge](https://github.com/gavinpaul-6/azure-resume)
 
+=======
+>>>>>>> 8e53e5ac3171f6163b1e16f2bb9d52776000174a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
