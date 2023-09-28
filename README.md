@@ -17,7 +17,7 @@
 
 - <b>Cloud 👨🏽‍💻☁️</b>
   - [Azure Resume Challenge](https://github.com/gavinpaul-6/azure-resume)
-  - [Microsoft Sentinel Honeynet Mini SOC (Coming Soon)](https://github.com/gavinpaul-6/microsoft-sentinel-siem)
+  - [Microsoft Sentinel SIEM & Honeynet (Coming Soon)](https://github.com/gavinpaul-6/microsoft-sentinel-siem)
 
 
 [twitter]: https://twitter.com/gavinpaul_6
