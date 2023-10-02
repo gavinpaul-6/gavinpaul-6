@@ -5,8 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinpaul-6&label=Profile%20views&color=0e75b6&style=flat" alt="gavinpaul-6" /> </p>
 
-- 🧠 I’m currently learning **Cloud Infrastructure, Incident Response, Incident Response and SIEM Engineering.**
+- 🧠 I’m currently learning **Cloud Infrastructure, Incident Response, Incident Response, and SIEM Engineering.**
 - 📝 Check out my experiences at my blog: [https://www.gavinpaul.tech](https://www.gavinpaul.tech)
+- ☁️ Check out my static hosted website with my resume: [https://www.gavinpaul.io](https://www.gavinpaul.io)
 - ✉️ You can reach out to me at: **gfaberjr@gmail.com**
 
 <h2>👨‍💻 My Projects:</h2>
