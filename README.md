@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gavin Faber</h1>
-<h3 align="center">Network Operations Center Analyst 💻</h3>
+<h3 align="center"> Junior System Administrator 💻</h3>
 
 <p>IT professional with a strong interest in Security Operations. I am building my security analyst skills utilizing training platforms, certifications, and projects.</p>
 
@@ -7,7 +7,7 @@
 
 - 🧠 I’m currently learning **Cloud Infrastructure, Incident Response, Incident Response, and SIEM Engineering.**
 - 📝 Check out my experiences at my blog: [https://www.gavinpaul.tech](https://www.gavinpaul.tech)
-- ☁️ Check out my static hosted website with my resume: [https://www.gavinpaul.io](https://www.gavinpaul.io)
+- ☁️ Check out my static-hosted website with my resume: [https://www.gavinpaul.io](https://www.gavinpaul.io)
 - ✉️ You can reach out to me at: **gfaberjr@gmail.com**
 
 <h2>👨‍💻 My Projects:</h2>
