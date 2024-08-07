@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Gavin Faber</h1>
-<h3 align="center"> Junior System Administrator 💻</h3>
+<h1 align="center">Hi 👋, I'm Gavin</h1>
+<h3 align="center"> Junior Linux System Administrator 🐧💻</h3>
 
-<p>IT professional with a strong interest in Security Operations. I am building my security analyst skills utilizing training platforms, certifications, and projects.</p>
+<p>IT professional with a keen interest in Cloud and DevOps Engineering. I am actively enhancing my skills through training platforms and hands-on projects to demonstrate my knowledge.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinpaul-6&label=Profile%20views&color=0e75b6&style=flat" alt="gavinpaul-6" /> </p>
 
-- 🧠 I’m currently learning **Cloud Infrastructure, Incident Response, Incident Response, and SIEM Engineering.**
-- 📝 Check out my experiences at my blog: [https://www.gavinpaul.tech](https://www.gavinpaul.tech)
-- ☁️ Check out my static-hosted website with my resume: [https://www.gavinpaul.io](https://www.gavinpaul.io)
+- 🧠 I’m currently learning **Cloud Infrastructure, Containerization, CI/CD, Infrastructure as Code, Configuration Management**
+- 📝 Check out my experiences on my website: [https://www.gavinpaul.tech](https://www.gavinpaul.tech)
+- ☁️ Check out my resume hosted on a static website built with Azure: [https://www.gavinpaul.io](https://www.gavinpaul.io)
 - ✉️ You can reach out to me at: **gfaberjr@gmail.com**
 
 <h2>👨‍💻 My Projects:</h2>
@@ -21,9 +21,7 @@
   - [Microsoft Sentinel SIEM & Honeynet](https://github.com/gavinpaul-6/microsoft-sentinel-siem)
 
 
-[twitter]: https://twitter.com/gavinpaul_6
 [youtube]: https://www.youtube.com/c/gavinpaultech
-[instagram]: https://www.instagram.com/gavinpaul_6/
 [linkedin]: https://linkedin.com/in/gavin-faber
 
 
