@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gavin</h1>
+<h1 align="center">Hi 👋, I'm Gavin Faber</h1>
 <h3 align="center"> Junior Linux System Administrator 🐧💻</h3>
 
-<p>IT professional with a keen interest in Cloud and DevOps Engineering. I am actively enhancing my skills through training platforms and hands-on projects to demonstrate my knowledge.</p>
+<p>I currently work as a Linux System Administrator. I started in tech at a help-desk/support role, where I was exposed to a wide variety of technologies including scripting, automation, security and cloud computing. Since then I've dedicated myself to learning the technologies and tools used to support cloud environments and automation. My current aspirations is to transition into a Cloud/DevOps Engineer role.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinpaul-6&label=Profile%20views&color=0e75b6&style=flat" alt="gavinpaul-6" /> </p>
 
