@@ -21,6 +21,16 @@
   - [Azure Resume Challenge](https://github.com/gavinpaul-6/azure-resume)
   - [Microsoft Sentinel SIEM & Honeynet](https://github.com/gavinpaul-6/microsoft-sentinel-siem)
 
+- <b>DevOps 👨🏽‍💻♾️ (Projects currently hosted in GitLab)</b>
+  - [Git](https://gitlab.com/gavin-devop-projects/03-git)
+  - [Build Tools & Package Manager Tools](https://gitlab.com/gavin-devop-projects/04-build-tools)
+  - [IaaS and Cloud Service with DigitalOcean](https://gitlab.com/gavin-devop-projects/04-build-tools)
+  - [Artifact Repository Manager with Nexus](https://gitlab.com/gavin-devop-projects/06-nexus)
+  - [Containers with Docker](https://gitlab.com/gavin-devop-projects/07-docker)
+  - [Build Automation & CI/CD with Jenkins](https://gitlab.com/gavin-devop-projects/08-jenkins)
+  - [AWS Services](https://gitlab.com/gavin-devop-projects/09-aws)
+  - [Container Orchestration with Kubernetes](https://gitlab.com/gavin-devop-projects/10-kubernetes)
+
 
 [youtube]: https://www.youtube.com/c/gavinpaultech
 [linkedin]: https://linkedin.com/in/gavin-faber
