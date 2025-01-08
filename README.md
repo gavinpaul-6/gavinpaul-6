@@ -29,7 +29,7 @@
   - [Containers with Docker](https://gitlab.com/gavin-devop-projects/07-docker)
   - [Build Automation & CI/CD with Jenkins](https://gitlab.com/gavin-devop-projects/08-jenkins)
   - [AWS Services](https://gitlab.com/gavin-devop-projects/09-aws)
-  - [Container Orchestration with Kubernetes](https://gitlab.com/gavin-devop-projects/10-kubernetes
+  - [Container Orchestration with Kubernetes](https://gitlab.com/gavin-devop-projects/10-kubernetes)
   
 - <b>30 Day DevOps Challenge (January 2025 - February 2025)</b>
   - [Weather Dashboard](https://github.com/gavinpaul-6/Weather-Dashboard) 🌡️☁️
