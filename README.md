@@ -34,6 +34,7 @@
 - <b>30 Day DevOps Challenge (January 2025 - February 2025)</b>
   - [Weather Dashboard](https://github.com/gavinpaul-6/Weather-Dashboard) 🌡️☁️
   - [NBA Game Day Notifications / Sports Alerts System](https://github.com/gavinpaul-6/NBA-Game-Day-Notifications-Sports-Alerts-System) 🏀
+  - [Building a Sports Data Lake using the NBA stats](https://github.com/gavinpaul-6/NBA-DataLake) 🧐
 
 
 [youtube]: https://www.youtube.com/c/gavinpaultech
