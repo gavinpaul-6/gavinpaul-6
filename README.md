@@ -21,8 +21,8 @@
   - [Azure Resume Challenge](https://github.com/gavinpaul-6/azure-resume)
   - [Microsoft Sentinel SIEM & Honeynet](https://github.com/gavinpaul-6/microsoft-sentinel-siem)
 
-- <b>DevOps 👨🏽‍💻♾️ (Projects currently hosted in GitLab)</b>
-  - [Git](https://gitlab.com/gavin-devop-projects/03-git)
+- <b>DevOps 👨🏽‍💻♾️ (Some projects are currently hosted in GitLab)</b>
+  - [Git](https://github.com/gavinpaul-6/devops-projects/tree/main/git/test-node-app)
   - [Build Tools & Package Manager Tools](https://gitlab.com/gavin-devop-projects/04-build-tools)
   - [IaaS and Cloud Service with DigitalOcean](https://gitlab.com/gavin-devop-projects/04-build-tools)
   - [Artifact Repository Manager with Nexus](https://gitlab.com/gavin-devop-projects/06-nexus)
