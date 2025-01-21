@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gavinpaul-6&show_icons=true&locale=en" alt="gavinpaul-6" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gavinpaul-6&theme=highcontrast" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats-sandy-five.vercel.app?user=gavinpaul-6&theme=highcontrast)](https://git.io/streak-stats)
