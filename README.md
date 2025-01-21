@@ -23,7 +23,7 @@
 
 - <b>DevOps 👨🏽‍💻♾️ (Some projects are currently hosted in GitLab)</b>
   - [Git](https://github.com/gavinpaul-6/devops-projects/tree/main/git/test-node-app)
-  - [Build Tools & Package Manager Tools](https://gitlab.com/gavin-devop-projects/04-build-tools)
+  - [Build Tools & Package Manager Tools](https://github.com/gavinpaul-6/devops-projects/tree/main/build-tools)
   - [IaaS and Cloud Service with DigitalOcean](https://gitlab.com/gavin-devop-projects/04-build-tools)
   - [Artifact Repository Manager with Nexus](https://gitlab.com/gavin-devop-projects/06-nexus)
   - [Containers with Docker](https://gitlab.com/gavin-devop-projects/07-docker)
