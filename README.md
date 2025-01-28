@@ -26,7 +26,7 @@
   - [Build Tools & Package Manager Tools](https://github.com/gavinpaul-6/devops-projects/tree/main/build-tools)
   - [IaaS and Cloud Service with DigitalOcean](https://github.com/gavinpaul-6/devops-projects/tree/main/iaas-cloud)
   - [Artifact Repository Manager with Nexus](https://github.com/gavinpaul-6/devops-projects/tree/main/nexus)
-  - [Containers with Docker](https://gitlab.com/gavin-devop-projects/07-docker)
+  - [Containers with Docker](https://github.com/gavinpaul-6/devops-projects/tree/main/docker)
   - [Build Automation & CI/CD with Jenkins](https://gitlab.com/gavin-devop-projects/08-jenkins)
   - [AWS Services](https://gitlab.com/gavin-devop-projects/09-aws)
   - [Container Orchestration with Kubernetes](https://gitlab.com/gavin-devop-projects/10-kubernetes)
