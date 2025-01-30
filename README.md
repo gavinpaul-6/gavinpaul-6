@@ -30,11 +30,15 @@
   - [Build Automation & CI/CD with Jenkins](https://gitlab.com/gavin-devop-projects/08-jenkins)
   - [AWS Services](https://gitlab.com/gavin-devop-projects/09-aws)
   - [Container Orchestration with Kubernetes](https://gitlab.com/gavin-devop-projects/10-kubernetes)
+
+- <b>Kubernetes </b>
+  - [CKA Course](https://github.com/gavinpaul-6/cka-notes)
   
 - <b>30 Day DevOps Challenge (January 2025 - February 2025)</b>
   - [Weather Dashboard](https://github.com/gavinpaul-6/Weather-Dashboard) 🌡️☁️
   - [NBA Game Day Notifications / Sports Alerts System](https://github.com/gavinpaul-6/NBA-Game-Day-Notifications-Sports-Alerts-System) 🏀
   - [Building a Sports Data Lake using the NBA stats](https://github.com/gavinpaul-6/NBA-DataLake) 🧐
+  - [Game Highlight Processor](TBD) 🏀
 
 
 [youtube]: https://www.youtube.com/c/gavinpaultech
