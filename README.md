@@ -30,7 +30,7 @@
   - [Build Automation & CI/CD with Jenkins](https://gitlab.com/gavin-devop-projects/08-jenkins)
   - [AWS Services](https://gitlab.com/gavin-devop-projects/09-aws)
   - [Container Orchestration with Kubernetes](https://gitlab.com/gavin-devop-projects/10-kubernetes)
-
+  - [EKS on Amazon Web Services](https://gitlab.com/gavin-devop-projects/11-eks)
 - <b>Kubernetes </b>
   - [CKA Course](https://github.com/gavinpaul-6/cka-notes)
   
