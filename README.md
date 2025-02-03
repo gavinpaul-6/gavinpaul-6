@@ -44,9 +44,14 @@
 [youtube]: https://www.youtube.com/c/gavinpaultech
 [linkedin]: https://linkedin.com/in/gavin-faber
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gavinpaul-6&theme=dark) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavinpaul-6&theme=dark) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gavinpaul-6&theme=dark) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gavinpaul-6&show_icons=true&locale=en" alt="gavinpaul-6" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gavinpaul-6&theme=dark) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gavinpaul-6&theme=dark&utcOffset=8) 
 
 [![GitHub Streak](https://github-readme-streak-stats-sandy-five.vercel.app?user=gavinpaul-6&theme=highcontrast)](https://git.io/streak-stats)
