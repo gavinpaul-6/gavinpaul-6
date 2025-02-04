@@ -7,7 +7,10 @@
 
 <h2>About Me 🤔</h2>
 
-Welcome to my GitHub Repository! I am currently a Linux System Administrator, but my true passion lies in Cloud and DevOps. I started my tech journey in a help-desk/support role, where I was exposed to a variety of technologies, including scripting, automation, security, and cloud computing. Since then, I’ve been dedicated to mastering the tools and technologies that power cloud environments and automation.
+As a Linux System Administrator supporting federal and government contracting projects, I specialize in managing and optimizing infrastructure, but my true passion lies in Cloud and DevOps. My journey in tech began in a help-desk/support role, where I proactively expanded my skills by exploring scripting, automation, security, and cloud computing in my free time. That early exposure ignited my drive to dive deeper into the world of cloud technologies and infrastructure automation.
+
+Here, you'll find projects reflecting my dedication to streamlining operations, optimizing deployments, and mastering DevOps tools. I'm always exploring new technologies and refining my skills—feel free to connect, collaborate, or check out my work! 🚀
+
 
 <h2>Languages, Tools and Frameworks</h2>
 <p align="center">
