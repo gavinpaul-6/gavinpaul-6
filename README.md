@@ -59,7 +59,7 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
   - [Weather Dashboard](https://github.com/gavinpaul-6/Weather-Dashboard) 🌡️☁️
   - [NBA Game Day Notifications / Sports Alerts System](https://github.com/gavinpaul-6/NBA-Game-Day-Notifications-Sports-Alerts-System) 🏀
   - [Building a Sports Data Lake using the NBA stats](https://github.com/gavinpaul-6/NBA-DataLake) 🧐
-  - [Game Highlight Processor](TBD) 🏀
+  - [Game Highlight Processor](https://github.com/gavinpaul-6/NCAAGameHighlights) 🏀
 
 
 <h2>Overall GitHub Metrics 📊</h2>
