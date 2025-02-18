@@ -48,10 +48,11 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
   - [IaaS and Cloud Service with DigitalOcean](https://github.com/gavinpaul-6/devops-projects/tree/main/iaas-cloud)
   - [Artifact Repository Manager with Nexus](https://github.com/gavinpaul-6/devops-projects/tree/main/nexus)
   - [Containers with Docker](https://github.com/gavinpaul-6/devops-projects/tree/main/docker)
-  - [Build Automation & CI/CD with Jenkins](https://gitlab.com/gavin-devop-projects/08-jenkins)
+  - [Build Automation & CI/CD with Jenkins](https://github.com/gavinpaul-6/devops-projects/tree/main/jenkins)
   - [AWS Services](https://gitlab.com/gavin-devop-projects/09-aws)
   - [Container Orchestration with Kubernetes](https://gitlab.com/gavin-devop-projects/10-kubernetes)
   - [EKS on Amazon Web Services](https://gitlab.com/gavin-devop-projects/11-eks)
+  
 - <b>Kubernetes </b>
   - [CKA Course](https://github.com/gavinpaul-6/cka-notes)
   
