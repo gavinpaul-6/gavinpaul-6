@@ -55,6 +55,7 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
   
 - <b>Kubernetes </b>
   - [CKA Course](https://github.com/gavinpaul-6/cka-notes)
+  - [Kubernetes Deployment with AWS](https://github.com/gavinpaul-6/aws-k8s-deployment)
   
 - <b>30 Day DevOps Challenge (January 2025 - February 2025)</b>
   - [Weather Dashboard](https://github.com/gavinpaul-6/Weather-Dashboard) 🌡️☁️
