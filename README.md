@@ -46,7 +46,7 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
   - [Git](https://gitlab.com/gavin-devop-projects/03-git)
   - [Build Tools & Package Manager Tools](https://gitlab.com/gavin-devop-projects/04-build-tools)
   - [IaaS and Cloud Service with DigitalOcean](https://gitlab.com/gavin-devop-projects/05-cloud)
-  - [Artifact Repository Manager with Nexus](https://github.com/gavinpaul-6/devops-projects/tree/main/nexus)
+  - [Artifact Repository Manager with Nexus](https://gitlab.com/gavin-devop-projects/06-nexus)
   - [Containers with Docker](https://github.com/gavinpaul-6/devops-projects/tree/main/docker)
   - [Build Automation & CI/CD with Jenkins](https://github.com/gavinpaul-6/devops-projects/tree/main/jenkins)
   - [AWS Services](https://gitlab.com/gavin-devop-projects/09-aws)
