@@ -42,7 +42,7 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
   - [Azure Resume Challenge](https://github.com/gavinpaul-6/azure-resume)
   - [Microsoft Sentinel SIEM & Honeynet](https://github.com/gavinpaul-6/microsoft-sentinel-siem)
 
-- <b>DevOps 👨🏽‍💻♾️ (Some projects are currently hosted in GitLab)</b>
+- <b>DevOps 👨🏽‍💻♾️ (These Projects are hosted on my Gitlab page 🦊)</b>
   - [Git](https://gitlab.com/gavin-devop-projects/03-git)
   - [Build Tools & Package Manager Tools](https://gitlab.com/gavin-devop-projects/04-build-tools)
   - [IaaS and Cloud Service with DigitalOcean](https://gitlab.com/gavin-devop-projects/05-cloud)
