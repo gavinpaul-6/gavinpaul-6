@@ -43,7 +43,7 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
   - [Microsoft Sentinel SIEM & Honeynet](https://github.com/gavinpaul-6/microsoft-sentinel-siem)
 
 - <b>DevOps 👨🏽‍💻♾️ (Some projects are currently hosted in GitLab)</b>
-  - [Git](https://github.com/gavinpaul-6/devops-projects/tree/main/git/test-node-app)
+  - [Git](https://gitlab.com/gavin-devop-projects/03-git)
   - [Build Tools & Package Manager Tools](https://github.com/gavinpaul-6/devops-projects/tree/main/build-tools)
   - [IaaS and Cloud Service with DigitalOcean](https://github.com/gavinpaul-6/devops-projects/tree/main/iaas-cloud)
   - [Artifact Repository Manager with Nexus](https://github.com/gavinpaul-6/devops-projects/tree/main/nexus)
