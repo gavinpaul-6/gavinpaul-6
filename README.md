@@ -53,6 +53,8 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
   - [Container Orchestration with Kubernetes](https://gitlab.com/gavin-devop-projects/10-kubernetes)
   - [Elastic Kubernetes Service (EKS) on AWS](https://gitlab.com/gavin-devop-projects/11-eks)
   - [Infrastructure as Code with Terraform](https://gitlab.com/gavin-devop-projects/12-terraform)
+  - [Python](https://gitlab.com/gavin-devop-projects/13-python)
+  - 
   
 - <b>Kubernetes </b>
   - [CKA Course](https://github.com/gavinpaul-6/cka-notes)
