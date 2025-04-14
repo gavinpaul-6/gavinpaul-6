@@ -3,7 +3,7 @@
 
 
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://gavinpaul.tech/)[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/gavin.faber)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gavin-faber/)[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/gavinpaul.tech) <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinpaul-6&label=Profile%20views&color=0e75b6&style=flat" alt="gavinpaul-6" /> </p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gavin-faber/)[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/gavinpaul.tech) <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinpaultech&label=Profile%20views&color=0e75b6&style=flat" alt="gavinpaultech" /> </p>
 
 <h2>About Me 🤔</h2>
 
@@ -35,12 +35,12 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
 <h2>My Projects 👨‍💻 </h2>
 
 - <b>Cyber 👨🏽‍💻🔎</b>
-  - [Cybersecurity Detection and Monitoring Homelab](https://github.com/gavinpaul-6/SOC-Lab)
-  - [Vulnerability Management with Nessus](https://github.com/gavinpaul-6/Vulnerability-Management-using-Nessus)  
+  - [Cybersecurity Detection and Monitoring Homelab](https://github.com/gavinpaultech/SOC-Lab)
+  - [Vulnerability Management with Nessus](https://github.com/gavinpaultech/Vulnerability-Management-using-Nessus)  
 
 - <b>Cloud 👨🏽‍💻☁️</b>
-  - [Azure Resume Challenge](https://github.com/gavinpaul-6/azure-resume)
-  - [Microsoft Sentinel SIEM & Honeynet](https://github.com/gavinpaul-6/microsoft-sentinel-siem)
+  - [Azure Resume Challenge](https://github.com/gavinpaultech/azure-resume)
+  - [Microsoft Sentinel SIEM & Honeynet](https://github.com/gavinpaultech/microsoft-sentinel-siem)
 
 - <b>DevOps 👨🏽‍💻♾️ (These Projects are hosted on my Gitlab page 🦊)</b>
   - [Git](https://gitlab.com/gavin-devop-projects/03-git)
@@ -58,14 +58,14 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
   - 
   
 - <b>Kubernetes </b>
-  - [CKA Course](https://github.com/gavinpaul-6/cka-notes)
-  - [Kubernetes Deployment with AWS](https://github.com/gavinpaul-6/aws-k8s-deployment)
+  - [CKA Course](https://github.com/gavinpaultech/cka-notes)
+  - [Kubernetes Deployment with AWS](https://github.com/gavinpaultech/aws-k8s-deployment)
   
 - <b>30 Day DevOps Challenge (January 2025 - February 2025)</b>
-  - [Weather Dashboard](https://github.com/gavinpaul-6/Weather-Dashboard) 🌡️☁️
-  - [NBA Game Day Notifications / Sports Alerts System](https://github.com/gavinpaul-6/NBA-Game-Day-Notifications-Sports-Alerts-System) 🏀
-  - [Building a Sports Data Lake using the NBA stats](https://github.com/gavinpaul-6/NBA-DataLake) 🧐
-  - [Game Highlight Processor](https://github.com/gavinpaul-6/NCAAGameHighlights) 🏀
+  - [Weather Dashboard](https://github.com/gavinpaultech/Weather-Dashboard) 🌡️☁️
+  - [NBA Game Day Notifications / Sports Alerts System](https://github.com/gavinpaultech/NBA-Game-Day-Notifications-Sports-Alerts-System) 🏀
+  - [Building a Sports Data Lake using the NBA stats](https://github.com/gavinpaultech/NBA-DataLake) 🧐
+  - [Game Highlight Processor](https://github.com/gavinpaultech/NCAAGameHighlights) 🏀
 
 
 <h2>Overall GitHub Metrics 📊</h2>
@@ -74,14 +74,14 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
 [youtube]: https://www.youtube.com/c/gavinpaultech
 [linkedin]: https://linkedin.com/in/gavin-faber
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gavinpaul-6&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gavinpaultech&theme=dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavinpaul-6&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavinpaultech&theme=dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gavinpaul-6&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gavinpaultech&theme=dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gavinpaul-6&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gavinpaultech&theme=dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gavinpaul-6&theme=dark&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gavinpaultech&theme=dark&utcOffset=8) 
 
-[![GitHub Streak](https://github-readme-streak-stats-sandy-five.vercel.app?user=gavinpaul-6&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-sandy-five.vercel.app?user=gavinpaultech&theme=highcontrast)](https://git.io/streak-stats)
