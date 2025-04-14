@@ -68,6 +68,26 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
   - [Game Highlight Processor](https://github.com/gavinpaultech/NCAAGameHighlights) 🏀
 
 
+
+# 📜 Certifications
+
+I hold a number of industry-recognized certifications across cloud, security, networking, and systems administration.
+
+---
+
+ Certification | Issuer | Area | Credential |
+|---------------|--------|------|------------|
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | Cloud Architecture | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
+| AWS Certified Cloud Practitioner | Amazon Web Services | Cloud Fundamentals | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
+| Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | Cloud Fundamentals | [View Credential](https://learn.microsoft.com/) |
+| CompTIA Security+ | CompTIA | Cybersecurity | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
+| CompTIA Network+ | CompTIA | Networking | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
+| CompTIA A+ | CompTIA | IT Fundamentals | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
+| CCNA (Cisco Certified Network Associate) | Cisco | Networking | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
+| Splunk Core Certified Power User | Splunk | Observability & Logging | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
+| Security Blue Team Level 1 (BTL1) | Blue Team Labs | Security Operations | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
+| LPI Linux Essentials | Linux Professional Institute | Linux Fundamentals | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
+
 <h2>Overall GitHub Metrics 📊</h2>
 
 
