@@ -55,11 +55,11 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
   - [Infrastructure as Code with Terraform](https://gitlab.com/gavin-devop-projects/12-terraform)
   - [Python](https://gitlab.com/gavin-devop-projects/13-python)
   - [Automation with Python](https://gitlab.com/gavin-devop-projects/14-automation-with-python)
-  - 
+
   
 - <b>Kubernetes </b>
-  - [CKA Course](https://github.com/gavinpaultech/cka-notes)
-  - [Kubernetes Deployment with AWS](https://github.com/gavinpaultech/aws-k8s-deployment)
+
+  - [CKA Course and Kubernetes Deployment with AWS](https://github.com/gavinpaultech/aws-k8s-deployment)
   
 - <b>30 Day DevOps Challenge (January 2025 - February 2025)</b>
   - [Weather Dashboard](https://github.com/gavinpaultech/Weather-Dashboard) 🌡️☁️
