@@ -12,6 +12,25 @@ As a Linux System Administrator supporting federal and government contracting pr
 Here, you'll find projects reflecting my dedication to streamlining operations, optimizing deployments, and mastering DevOps tools. I'm always exploring new technologies and refining my skills—feel free to connect, collaborate, or check out my work! 🚀
 
 
+<h2>Currently Learning 📚</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gitlab,githubactions" />
+  </a>
+</p>
+
+<p align="center">
+  I'm currently focusing on:
+  <br>
+  🔹 <b>GitLab CI/CD</b> for end-to-end DevOps automation  
+  <br>
+  🔹 <b>GitHub Actions</b> for streamlined workflow automation
+</p>
+
+
+
+
 <h2>Languages, Tools and Frameworks</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -87,6 +106,18 @@ I hold a number of industry-recognized certifications across cloud, security, ne
 | Splunk Core Certified Power User | Splunk | Observability & Logging | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
 | Security Blue Team Level 1 (BTL1) | Blue Team Labs | Security Operations | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
 | LPI Linux Essentials | Linux Professional Institute | Linux Fundamentals | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
+
+
+## Books I'm Reading</h3>
+
+
+  📘 <i>Terraform Cookbook</i> by Mikael Krief  
+  <br>
+  📗 <i>Practical Ansible</i> by Daniel Oh  
+  <br>
+  📕 <i>The Phoenix Project</i> by Gene Kim, Kevin Behr, and George Spafford  
+</p>
+
 
 <h2>Overall GitHub Metrics 📊</h2>
 
