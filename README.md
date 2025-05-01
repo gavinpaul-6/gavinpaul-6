@@ -75,6 +75,10 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
   - [Python](https://gitlab.com/gavin-devop-projects/13-python)
   - [Automation with Python](https://gitlab.com/gavin-devop-projects/14-automation-with-python)
 
+- <b>DevSecOps 👨🏽‍💻🔒♾️</b>
+  - [DevSecOps Home Lab](https://github.com/gavinpaultech/devsecops-homelab)
+
+
   
 - <b>Kubernetes </b>
 
@@ -108,7 +112,7 @@ I hold a number of industry-recognized certifications across cloud, security, ne
 | LPI Linux Essentials | Linux Professional Institute | Linux Fundamentals | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
 
 
-## Books I'm Reading</h3>
+## Books I'm Reading 📚</h3>
 
 
   📘 <i>Terraform Cookbook</i> by Mikael Krief  
