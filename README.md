@@ -78,7 +78,6 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
 - <b>DevSecOps 👨🏽‍💻🔒♾️</b>
   - [DevSecOps Home Lab](https://github.com/gavinpaultech/devsecops-homelab)
 
-
   
 - <b>Kubernetes </b>
 
@@ -100,6 +99,7 @@ I hold a number of industry-recognized certifications across cloud, security, ne
 
  Certification | Issuer | Area | Credential |
 |---------------|--------|------|------------|
+| Certified DevOps Practitioner  | TechWorld with Nana | DevOps | [View Credential](https://www.credly.com/earner/earned/badge/0c3ab21d-9866-4433-9afc-0ff5af0fd308) |
 | AWS Certified Solutions Architect – Associate | Amazon Web Services | Cloud Architecture | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
 | AWS Certified Cloud Practitioner | Amazon Web Services | Cloud Fundamentals | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
 | Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | Cloud Fundamentals | [View Credential](https://learn.microsoft.com/) |
@@ -110,6 +110,7 @@ I hold a number of industry-recognized certifications across cloud, security, ne
 | Splunk Core Certified Power User | Splunk | Observability & Logging | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
 | Security Blue Team Level 1 (BTL1) | Blue Team Labs | Security Operations | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
 | LPI Linux Essentials | Linux Professional Institute | Linux Fundamentals | [View Credential](https://www.credly.com/users/gavin-faber-jr) |
+
 
 
 ## Books I'm Reading 📚</h3>
