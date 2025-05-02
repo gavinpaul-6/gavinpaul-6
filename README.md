@@ -12,43 +12,39 @@ As a Linux System Administrator supporting federal and government contracting pr
 Here, you'll find projects reflecting my dedication to streamlining operations, optimizing deployments, and mastering DevOps tools. I'm always exploring new technologies and refining my skills—feel free to connect, collaborate, or check out my work! 🚀
 
 
+<h2>Languages, Tools and Frameworks</h2>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,linux,redhat,git,python,nodejs,npm,docker" />
+  </a>
+</p>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,kubernetes,terraform,ansible,prometheus,grafana,aws,azure" />
+  </a>
+</p>
+
 <h2>Currently Learning 📚</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
+
+ ### I'm currently studying for:
+
+🔹 <b>Certified Kubernetes Administrator</b> exam
+
+🔹 <b>AWS SysOps Administrator Associate</b> exam
+
+
+
+ ### I'm actively learning : 
+
+   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gitlab,githubactions" />
   </a>
 </p>
-
-<p align="center">
-  I'm currently focusing on:
-  <br>
-  🔹 <b>GitLab CI/CD</b> for end-to-end DevOps automation  
+ 
+🔹 <b>GitLab CI/CD</b> for end-to-end DevOps automation  
   <br>
   🔹 <b>GitHub Actions</b> for streamlined workflow automation
-</p>
-
-
-
-
-<h2>Languages, Tools and Frameworks</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,redhat,git,python,nodejs,npm"
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,jenkins,kubernetes,terraform,ansible,prometheus,grafana" />
-  </a>
-</p>
-
-<h2>Cloud</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure" />
-  </a>
 </p>
 
 <h2>My Projects 👨‍💻 </h2>
