@@ -60,6 +60,7 @@ Here, you'll find projects reflecting my dedication to streamlining operations, 
 - <b>Cloud 👨🏽‍💻☁️</b>
   - [Azure Resume Challenge](https://github.com/gavinpaultech/azure-resume)
   - [Microsoft Sentinel SIEM & Honeynet](https://github.com/gavinpaultech/microsoft-sentinel-siem)
+  - [Simple Monitoring with CloudWatch](https://github.com/gavinpaultech/monitoring-with-cloudwatch)
 
 - <b>DevOps 👨🏽‍💻♾️ (These Projects are hosted on my Gitlab page 🦊)</b>
   - [Git](https://gitlab.com/gavin-devop-projects/03-git)
